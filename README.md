@@ -1,6 +1,7 @@
 
-# Deep Learning - IMLND Udacity
-## Image Classifier with TensorFlow
+# Image Classifier with TensorFlow
+
+## Deep Learning - IMLND Udacity
 
 
 ### Description
