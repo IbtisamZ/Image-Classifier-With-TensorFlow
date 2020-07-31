@@ -1,7 +1,7 @@
 
 # Image Classifier with TensorFlow
 
-## Deep Learning - IMLND Udacity
+## Deep Learning - Udacity IMLND 
 
 
 ### Description
