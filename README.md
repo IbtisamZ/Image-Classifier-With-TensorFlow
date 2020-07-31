@@ -1,5 +1,5 @@
 
-# Deep Learning
+# Deep Learning - IMLND Udacity
 ## Image Classifier with TensorFlow
 
 
