@@ -9,7 +9,7 @@
 
 This is an image classification application. This application will train a deep learning model on a dataset of images, It will then use the trained model to classify new images.
 
-It this project, we'll be training an image classifier to recognize different species of flowers. We’ll be using this dataset of 102 flower categories. We'll be predicting flower name from an image with predict.py along with the probability of that name after passing in an image. In practice, this can be used as a phone app that tells you the name of the flower your camera is looking at.
+It this project, I'll be training an image classifier to recognize different species of flowers. Using this dataset of 102 flower categories, I'll be predicting flower name from an image with predict.py along with the probability of that name after passing in an image. In practice, this can be used as a phone app that tells you the name of the flower your camera is looking at.
 
 
 ### Data
